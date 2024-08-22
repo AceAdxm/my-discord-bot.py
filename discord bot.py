@@ -56,4 +56,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # Start the bot
-bot.run('#your token here')
+bot.run(' # YOUR TOKEN HERE ')
